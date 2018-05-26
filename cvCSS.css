@@ -1,0 +1,272 @@
+
+body{
+margin: 0;
+
+text-align : center;
+}
+.N1
+{
+width:25%;
+float:left;
+}
+#navigationbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 18%;
+    background-color:#778899;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    color:#EE82EE;
+    cursor:hand;
+    float:left;
+	
+   
+}
+
+h1{
+    text-align:center;
+    
+    background:url('lines_dark_uneven_background_69481_1920x1080.jpg') no-repeat;
+    height:260px;
+    border-radius:5px;
+    color:#7CFC00;
+    font-size:50px;
+    font-family:Bookman;
+    font-weight:bold;
+    cursor:default;
+    }
+h1:hover{
+color:Magenta ;
+}
+
+li a {
+    display: block;
+    color:#00ffff;
+    padding: 8px 16px;
+    text-decoration: none;
+
+}
+
+li a.act {
+    background-color: #ADFF2F;
+    color: white;
+    border: 1px solid Blue;
+}
+
+
+
+    li a.act:hover {
+    color:#FF00FF;
+    border: 2px solid red;
+}
+
+li a:hover:not(.act)  {
+    background-color: #555;
+    color: red;
+   border: 3px solid yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pro1{
+background-image:url("img3.jpg");
+height:400px;
+margin:-41px;
+}
+h2{
+margin-right:100px;
+font-size:50px;
+font-weight:bold;
+font-style:arial;
+color:OrangeRed ;
+}
+.pro2{
+
+color:#F8F8FF;
+margin-left: 400px;
+font-size:30px;
+float:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.core1{
+background-image:url("img4.jpg");
+height:400px;
+margin:-55px;
+}
+table,th,td{
+width:55%;
+margin:auto;
+border:1px solid white;
+border-collapse:collapse;
+text-align:center;
+font-size:20px;
+table-layout:fixed;
+background:yellow;
+opacity:0.5;
+color:Crimson ;
+margin-top:80px;
+}
+
+table,th,td:hover{
+background-color:#00FFFF;
+}
+
+
+table,th{
+color:black;
+}
+table,th:hover{
+color:DarkMagenta ;
+background-color:BlanchedAlmond ;
+}
+th,td{
+padding:2px;
+opacity:0.9;
+}
+.core2{
+margin-left:180px;
+font-size:40px;
+font-weight:bold;
+font-style:arial;
+color:OrangeRed ;
+}
+.core3{
+margin-left:500px;
+font-size:30px;
+color:#9932CC;
+}
+
+
+
+
+
+
+
+.education{
+background-image:url("img7.jpg");
+height:500px;
+float:center;
+
+}
+.edu1{
+margin-left:150px;
+font-size:40px;
+font-weight:bold;
+font-style:arial;
+color:OrangeRed ;
+}
+.edu2{
+margin-left:300px;
+}
+
+
+
+
+
+.intrests{
+background-image:url("processor_cpu_upgrade_installation_chip_robot_5633_1280x1024.jpg");
+height:500px;
+margin:-55px;
+
+}
+
+.int1{
+text-align:center;
+margin-left:250px;
+font-size:40px;
+font-weight:bold;
+font-style:arial;
+color:OrangeRed ;
+}
+
+.int2{
+
+margin-left:200px;
+margin-line:15px;
+font-size:30px;
+font-weight:bold;
+font-style:arial;
+color:	#00FF00;
+}
+
+
+
+
+
+.professionalAffiliation{
+background-image:url("img10.jpg");
+height:400px;
+margin:-58px;
+}
+
+.prof1{
+text-align:center;
+margin-left:250px;
+font-size:40px;
+font-weight:bold;
+font-style:arial;
+color:OrangeRed ;
+}
+
+
+
+
+.contacts{
+background-color:black;
+height:300px;
+margin:-130px;
+
+}
+
+
+ h6{
+ margin-left:250px;
+color:Red;
+font-size:50px;
+font-family:Georgia;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
